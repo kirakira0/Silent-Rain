@@ -1,0 +1,16 @@
+{
+"companyName": "RavidStudios",
+"productName": "Silent Rain",
+"productVersion": "0.1",
+"dataUrl": "Builds.data.unityweb",
+"wasmCodeUrl": "Builds.wasm.code.unityweb",
+"wasmFrameworkUrl": "Builds.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
