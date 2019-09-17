@@ -2,6 +2,9 @@
 
 LIVE LINK: https://kirakira0.github.io/Silent-Rain/
 
+2018 National Scholastic Art and Writing Award Video Game Category Winner 
+(note: Scholastic Art and Writing Awards currently owns the rights to "Silent Rain" and thus, for the time being, only the demo is availible to be played/downloaded. Full version coming late 2019. Thank you for your patience.) 
+
 An eerie visual novel about murder, racism, and the American incarceration system.   
 
 Gameplay: “Silent Rain” is a video game which utilizes the player’s choices to tell a story. The decisions made by the player influence 
