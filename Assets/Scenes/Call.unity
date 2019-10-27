@@ -1147,7 +1147,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1716194825}
   selectedCommands:
-  - {fileID: 1716194839}
+  - {fileID: 1716194835}
   variables: []
   description: 
   stepPause: 0
@@ -1333,8 +1333,8 @@ MonoBehaviour:
       Ayton?\r\nCal: Depends on who's calling me at 3 in the morning on a Sunday.
       \r\nLuk: Cal, it's me. Luka. \r\nLuk: I know it sounds crazy but I-\r\nCal:
       Yeah, it does sound crazy. \r\nCal: This prank might've worked a little better
-      if Luka wasn't already dead. \r\nLuk: I got a retrail, Cal. \r\nCal: No one
-      gets a retrail. \r\nLuk: Well, I do, apparently.\r\nCal: And then {i}Eburnean
+      if Luka wasn't already dead. \r\nLuk: I got a retrial, Cal. \r\nCal: No one
+      gets a retrial. \r\nLuk: Well, I do, apparently.\r\nCal: And then {i}Eburnean
       State Penitentiary{/i} just up and let you walk?\r\nCal: After all these years?
       After all the charges against you?\r\nLuk: Cal,   \r\nLuk: I know it's hard
       to believe, and I hate to call you out of the blue like this, after all this
